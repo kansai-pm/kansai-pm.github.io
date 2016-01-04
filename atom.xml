@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Your Blog Title</title>
-<link rel="alternate" href="http://yourblog.example.com/" />
-<author>Your name</author>
+<title>Kansai Perl Mongers Website</title>
+<link rel="alternate" href="http://kansai.pm.org/" />
+<author>Kansai.pm</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.7">Perl Riji</generator>
-<id>tag:yourblog.example.com,2016-01-04:</id>
-<updated>2016-01-04T22:26:10+09:00</updated>
+<id>tag:kansai.pm.org,2016-01-04:</id>
+<updated>2016-01-04T23:51:19+09:00</updated>
 <entry>
-<title type="text">Sample</title>
-<link href="http://yourblog.example.com/entry/sample.html" />
+<title type="text">公式サイトをリニューアルしました</title>
+<link href="http://kansai.pm.org/entry/2016-01-04-01.html" />
 <author>
 <name>nqounet</name>
 </author>
 <content type="html">
 <![CDATA[
+
+<p>Kansai.pm暫定代表の若林（<a href="https://twitter.com/nqounet">@nqounet</a>）です。</p>
+
+<p>ずさんな管理がたたってKansai.pmのウェブサイトの復旧が困難になってしまったのでリニューアルいたしました。</p>
+
+<p>これからもよろしくお願い申し上げます。</p>
 ]]></content>
-<id>tag:yourblog.example.com,2016-01-04:entry-sample.html</id>
-<published>2016-01-04T22:26:10+09:00</published>
-<updated>2016-01-04T22:26:10+09:00</updated>
+<id>tag:kansai.pm.org,2016-01-04:entry-2016-01-04-01.html</id>
+<published>2016-01-04T23:51:19+09:00</published>
+<updated>2016-01-04T23:51:19+09:00</updated>
 </entry>
 </feed>
