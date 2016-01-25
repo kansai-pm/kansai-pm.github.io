@@ -5,7 +5,51 @@
 <author>Kansai.pm</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.7">Perl Riji</generator>
 <id>tag:kansai.pm.org,2016-01-04:</id>
-<updated>2016-01-10T04:27:05+09:00</updated>
+<updated>2016-01-26T03:25:24+09:00</updated>
+<entry>
+<title type="text">1月30日はPerl入学式in大阪を開催いたします</title>
+<link href="http://kansai.pm.org/entry/2016-01-26-01.html" />
+<author>
+<name>nqounet</name>
+</author>
+<content type="html">
+<![CDATA[
+
+<p>Kansai.pmの若林（<a href="https://twitter.com/nqounet">@nqounet</a>）です。</p>
+
+<p>今週の土曜日は、私がサポーターとして参加している「Perl入学式in大阪」という勉強会を開催いたします。</p>
+
+<div class="text-center">
+    <a href="https://perl-entrance-osaka.doorkeeper.jp/events/36826" class="btn btn-lg btn-primary btn-block">Perl入学式 in大阪 第5回 〜Webアプリ編〜のお申し込みはこちらから</a>
+</div>
+
+
+<p>Perl入学式は、プログラミングの基礎をPerlで学ぶ勉強会です。</p>
+
+<p>今回は、Mojolicious::Liteというウェブアプリケーションフレームワークを用いて、簡単なウェブアプリを作ります。</p>
+
+<p>残念ながら既に定員一杯ではありますが、キャンセル待ちも受付しております。</p>
+
+<p>また、資料は公開しておりますので、日程が合わない方はこちらを参考に是非チャレンジしてみてください。</p>
+
+<div class="text-center">
+    <a href="https://github.com/perl-entrance-org/workshop-2015-05" class="btn btn-lg btn-warning btn-block">資料はこちらから</a>
+</div>
+
+
+<p>入門者向けのMojolicious::Liteのチュートリアルとしてはこちらもおすすめしておきます。</p>
+
+<ul>
+<li><a href="http://qiita.com/yusukebe/items/65141c9c63a2860af962">Mojolicious最速マスター - Qiita</a></li>
+<li><a href="http://www.nishimiyahara.net/category/work/mojo-tutorial">Mojolicious入門 | IT Office Nishimiyahara</a></li>
+<li><a href="http://d.hatena.ne.jp/perlcodesample/20140325/1395723602">一番小さなWebアプリケーション | Mojolicious入門 - サンプルコードによるPerl入門 produced by 木本裕紀</a></li>
+</ul>
+
+]]></content>
+<id>tag:kansai.pm.org,2016-01-26:entry-2016-01-26-01.html</id>
+<published>2016-01-26T03:25:24+09:00</published>
+<updated>2016-01-26T03:25:24+09:00</updated>
+</entry>
 <entry>
 <title type="text">3月に第16回ミーティングを開催します（予定）</title>
 <link href="http://kansai.pm.org/entry/2016-01-10-01.html" />
