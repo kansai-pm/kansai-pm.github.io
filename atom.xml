@@ -5,7 +5,66 @@
 <author>Kansai.pm</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.7">Perl Riji</generator>
 <id>tag:kansai.pm.org,2016-01-04:</id>
-<updated>2016-03-19T17:08:21+09:00</updated>
+<updated>2016-03-21T12:42:43+09:00</updated>
+<entry>
+<title type="text">第16回ミーティングを開催しました</title>
+<link href="http://kansai.pm.org/entry/2016-03-21-01.html" />
+<author>
+<name>nqounet</name>
+</author>
+<content type="html">
+<![CDATA[
+
+<p>第16回ミーティングを開催しました。</p>
+
+<p>発表者の皆さん、会場を提供してくれた <a href="https://twitter.com/tomcha_">@tomcha_</a> さん、 <a href="https://twitter.com/nqounet">@nqounet</a> さん、そして、参加していただいた皆さん、ありがとうございました。</p>
+
+<p>開催情報は以下のとおりです。</p>
+
+<p>感想や資料については順次追加していきますので、是非ハッシュタグ「<a href="https://twitter.com/hashtag/kansaipm">#kansaipm</a>」をつけてつぶやいてください。</p>
+
+<p>また次回お会いしましょう！</p>
+
+<h2>日時</h2>
+
+<p>2016年3月20日（日） 16時から20時（懇親会含む）</p>
+
+<h2>会場</h2>
+
+<p>グランフロント大阪 北館7F ナレッジサロン プロジェクトルームGH</p>
+
+<h2>発表者、タイトル、資料</h2>
+
+<ul>
+<li><p><a href="https://twitter.com/karupanerura">@karupanerura</a>
+Time::Moment + Time::Strptime = :muscle:
+<a href="http://www.slideshare.net/karupanerura/timemomenttimestrptime">発表資料</a></p></li>
+<li><p><a href="https://twitter.com/azumakuniyuki">@azumakuniyuki</a>
+Perlモジュールを Rubyに移植する時に 落ちた穴々
+<a href="http://www.slideshare.net/azumakuniyuki/kansaipm16">発表資料</a></p></li>
+<li><p><a href="https://twitter.com/sago35tk">@sago35tk</a>
+サンモクを通して学んだ話
+<a href="http://www.slideshare.net/masaakitakasago/20160320">発表資料</a></p></li>
+<li><p><a href="https://twitter.com/xtetsuji">@xtetsuji</a>
+WordPress の運用を改善する Perl</p></li>
+<li><p><a href="https://twitter.com/__papix__">@__papix__</a>
+ライブコーディング</p></li>
+</ul>
+
+
+<h2>感想ブログ</h2>
+
+<p>絶賛追加中！</p>
+
+<ul>
+<li><a href="http://www.nishimiyahara.net/2016/03/21/114416">Kansai.pm第16回ミーティングを開催してきました | IT Office Nishimiyahara</a></li>
+</ul>
+
+]]></content>
+<id>tag:kansai.pm.org,2016-03-21:entry-2016-03-21-01.html</id>
+<published>2016-03-21T12:42:43+09:00</published>
+<updated>2016-03-21T12:42:43+09:00</updated>
+</entry>
 <entry>
 <title type="text">（速報）Kansai.pm第16回ミーティングの日時および開催場所について</title>
 <link href="http://kansai.pm.org/entry/2016-02-05-01.html" />
