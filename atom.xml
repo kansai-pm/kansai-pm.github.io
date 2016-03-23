@@ -5,7 +5,7 @@
 <author>Kansai.pm</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.7">Perl Riji</generator>
 <id>tag:kansai.pm.org,2016-01-04:</id>
-<updated>2016-03-22T21:41:14+09:00</updated>
+<updated>2016-03-23T10:32:15+09:00</updated>
 <entry>
 <title type="text">第16回ミーティングを開催しました</title>
 <link href="http://kansai.pm.org/entry/2016-03-21-01.html" />
@@ -48,7 +48,8 @@ Perlモジュールを Rubyに移植する時に 落ちた穴々
 <li><p><a href="https://twitter.com/xtetsuji">@xtetsuji</a>
 WordPress の運用を改善する Perl</p></li>
 <li><p><a href="https://twitter.com/__papix__">@__papix__</a>
-ライブコーディング</p></li>
+papixがコード書いている様子を晒す
+<a href="https://speakerdeck.com/papix/kansai-dot-pm-number-16">発表資料</a></p></li>
 </ul>
 
 
@@ -66,7 +67,7 @@ WordPress の運用を改善する Perl</p></li>
 ]]></content>
 <id>tag:kansai.pm.org,2016-03-21:entry-2016-03-21-01.html</id>
 <published>2016-03-21T12:42:43+09:00</published>
-<updated>2016-03-22T21:41:14+09:00</updated>
+<updated>2016-03-23T10:32:15+09:00</updated>
 </entry>
 <entry>
 <title type="text">（速報）Kansai.pm第16回ミーティングの日時および開催場所について</title>
