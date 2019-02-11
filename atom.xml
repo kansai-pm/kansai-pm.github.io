@@ -5,7 +5,44 @@
 <author>Kansai.pm</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.8">Perl Riji</generator>
 <id>tag:kansai.pm.org,2016-01-04:</id>
-<updated>2018-05-08T02:05:06+09:00</updated>
+<updated>2019-02-11T17:51:55+09:00</updated>
+<entry>
+<title type="text">2019年2月23日にPerl入学式in大阪を開催いたします</title>
+<link href="http://kansai.pm.org/entry/2019-02-11-01.html" />
+<author>
+<name>tomcha</name>
+</author>
+<content type="html">
+<![CDATA[
+
+<p>Kansai.pmの（<a href="https://twitter.com/tomcha">@tomcha</a>）です。</p>
+
+<p>2月23日（土）は、私がサポーターとして参加している「Perl入学式in大阪」という勉強会を開催いたします。</p>
+
+<p><a href="https://perl-entrance-osaka.connpass.com/event/112886/"><img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/c2/5ec216e5552096fd5437dc9685d83eb0.png" alt="Perl入学式くん" /><br />Perl入学式 in大阪 第5回 〜webアプリ編〜 (2019/02/23 13:00〜) - connpass</a></p>
+
+<p>Perl入学式は、プログラミングの基礎をPerlで学ぶ勉強会です。</p>
+
+<p>今回は、Mojoliciousというソフトウェアを使って、簡易BBSプログラムを作成します。</p>
+
+<p>実際にテキストエディタを使ってプログラムを書き、それを動かしながら学ぶので、簡単ではありますが実際のプログラミングの体験にもなります。</p>
+
+<p>Perlの基礎文法の講義、第1回から第4回の知識はあった方が良いですが、完璧にマスターしていなくとも過去資料をざっくり読んでみて参加していただいても構いません。</p>
+
+<p>過去の資料はPerl入学式公式サイトにて公開しておりますので初めて参加される方は目を通してみてください。</p>
+
+<ul>
+<li><a href="https://github.com/perl-entrance-org/workshop-2018/blob/master/5th/slide.md">Perl入学式2018年度資料：サブルーチン/正規表現編</a></li>
+<li><a href="http://www.perl-entrance.org/handout.html#handout-2018">過去の資料はこちら</a></li>
+</ul>
+
+
+<p><a href="https://perl-entrance-osaka.connpass.com/event//112886/join/">参加のお申し込みはこちらから！</a></p>
+]]></content>
+<id>tag:kansai.pm.org,2019-02-11:entry-2019-02-11-01.html</id>
+<published>2019-02-11T17:51:55+09:00</published>
+<updated>2019-02-11T17:51:55+09:00</updated>
+</entry>
 <entry>
 <title type="text">（速報）Kansai.pm第16回ミーティングの日時および開催場所について</title>
 <link href="http://kansai.pm.org/entry/2016-02-05-01.html" />
